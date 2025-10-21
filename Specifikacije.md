@@ -1,5 +1,5 @@
 # Avtomobili
-!(https://i.pinimg.com/736x/8b/9a/d4/8b9ad4e071cd63ab3ed298ae5e30b9d1.jpg)
+![Avto](https://i.pinimg.com/736x/8b/9a/d4/8b9ad4e071cd63ab3ed298ae5e30b9d1.jpg)
 
 
 | Ime      | Vloga |
