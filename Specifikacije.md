@@ -16,3 +16,12 @@ Avtomobili, ta spletna stran je narejena, posebej za avtomobile, fokusira se na 
 2. Prodaja *Možnost objave svojega avtomobila za prodajo* :euro:
 3. Listanje katalogov *Spletni katalogi novih vozil, ki jih lahko listamo in preglejujemo* :book:
 4. Beleženje svoji vozil *Nalaganje slik svojih avtomobilov, s katerimi imate pregled nad trenutnimi in bivšimi avtomobili vaše garaže* :checkered_flag:
+
+## Izgled
+
+- **Slideshow avtomobilov**
+- Footer naj bo modro-bel
+- **Logo levo zgoraj**
+- Stran naj ima minimalističen izgled
+
+Zgledovali bi se po [Avto.net](https://avto.net)
